@@ -14,9 +14,12 @@
 
 ### Git 명령어
 1. git add index.html -별도지정
+
    git add . - 여러 파일을 지정
                현재 디렉토리에 있는 변화된 모든 파일
+
 2. git commit -m "index.html의 첫 커밋"
+
    git commit -m "현재 디렉토리에 있는 모든 변경파일 커밋"
 
 3. git remote add origin https://github.com/Leekayoung12/test.git
