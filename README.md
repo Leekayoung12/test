@@ -1,6 +1,6 @@
 ## Git hub Day1
 
-
+# TEST용
 
 **Git hub는 Git을 연결할  수 있는 클라우드 서버**
 
@@ -28,5 +28,3 @@
     -로컬 저장소에서 github 저장소 주소 설정
 
 4. git push -u origin master -생성한 커밋을 github로 전송
-
-[블로그 방문하기](https://blog.naver.com/dlrkdud22)
